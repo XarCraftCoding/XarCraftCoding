@@ -1,4 +1,4 @@
-MsgBox "Your text here", vbCritical, "Your title here"
-MsgBox "Your text here", vbQuestion, "Your title here"
-MsgBox "Your text here", vbExclamation, "Your title here"
-MsgBox "Your text here", vbInformation, "Your title here"
+MsgBox "This is Critical icon.", vbCritical, "Icons"
+MsgBox "This is Question icon.", vbQuestion, "Icons"
+MsgBox "This is Exclamation icon.", vbExclamation, "Icons"
+MsgBox "This is Information icon.", vbInformation, "Icons"
